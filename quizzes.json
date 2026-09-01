@@ -1,0 +1,14 @@
+[
+  {
+    "id": "q1",
+    "title": "General Knowledge Vol. 1",
+    "code": "RH-GK1",
+    "file": "quizzes/sample.pdf"
+  },
+  {
+    "id": "q2",
+    "title": "Music Rounds Pack",
+    "code": "RH-MUS1",
+    "file": "quizzes/sample.pdf"
+  }
+]
