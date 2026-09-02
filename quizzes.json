@@ -131,5 +131,12 @@
     "code": "RH-GK019",
     "description": "25 Images of Actors who have played a Marvel Villian (Images Spliced and Tiled)",
     "file": "quizzes/Marvel_Villains_(Tiled)_Quiz.pdf"
+  },
+  {
+    "id": "Q0020",
+    "title": "Nazis",
+    "code": "RH-GK020",
+    "description": "25 Images of Celebrities dressed as Nazis",
+    "file": "quizzes/Nazis_Quiz.pdf"
   }
 ]
