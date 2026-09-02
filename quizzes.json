@@ -180,5 +180,12 @@
     "code": "RH-GK026",
     "description": "25 Cryptic Songs and Artists",
     "file": "quizzes/Name_That_Tune_Quiz.pdf"
+  },
+  {
+    "id": "Q0027",
+    "title": "Film Dingbats",
+    "code": "RH-GK027",
+    "description": "25 Cryptic Images of Popular Films",
+    "file": "quizzes/Film_Dingbats_Quiz.pdf"
   }
 ]
