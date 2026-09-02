@@ -137,7 +137,7 @@
     "title": "Nazis",
     "code": "RH-GK020",
     "description": "25 Images of Celebrities dressed as Nazis",
-    "file": "quizzes/Acting_is_a_Drag_Quiz.pdf"
+    "file": "quizzes/Nazis_Quiz.pdf"
   },
   {
     "id": "Q0021",
@@ -151,6 +151,27 @@
     "title": "Classic Adverts",
     "code": "RH-GK022",
     "description": "25 Images of Classic Adverts - Name the Product / Company.",
-    "file": "quizzes/Nazis_Quiz.pdf"
+    "file": "quizzes/Acting_is_a_Drag_Quiz.pdf"
+  },
+  {
+    "id": "Q0023",
+    "title": "Clergy",
+    "code": "RH-GK023",
+    "description": "25 Images of Celebrities dressed as Clergy.",
+    "file": "quizzes/Clergy_Quiz.pdf"
+  },
+  {
+    "id": "Q0024",
+    "title": "Redheads",
+    "code": "RH-GK024",
+    "description": "25 Images of Celebrities Redheads.",
+    "file": "quizzes/Readheads_Quiz.pdf"
+  },
+  {
+    "id": "Q0025",
+    "title": "Chorus",
+    "code": "RH-GK025",
+    "description": "Name the artist from the song chorus, words that appear in the title have been replaced with a 'Note' and vowels replaced by a 'Dash'.",
+    "file": "quizzes/Chorus_Quiz.pdf"
   }
 ]
