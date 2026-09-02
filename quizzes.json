@@ -173,5 +173,12 @@
     "code": "RH-GK025",
     "description": "Name the artist from the song chorus, words that appear in the title have been replaced with a 'Note' and vowels replaced by a 'Dash'.",
     "file": "quizzes/Chorus_Quiz.pdf"
+  },
+  {
+    "id": "Q0026",
+    "title": "That That Tune",
+    "code": "RH-GK026",
+    "description": "25 Cryptic Songs and Artists",
+    "file": "quizzes/Name_That_Tune_Quiz.pdf"
   }
 ]
