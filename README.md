@@ -13,11 +13,12 @@ reference code so you know which sheet to email them.
 1. Drop each PDF into `quizzes/`.
 2. Open `quizzes.json` and add an entry:
    ```json
-   { "id": "q3", "title": "Sports Special", "code": "RH-SPT1", "file": "quizzes/sports-special.pdf" }
+   { "id": "q3", "title": "Sports Special", "code": "RH-SPT1", "description": "5 rounds on football, olympics and general sport.", "file": "quizzes/sports-special.pdf" }
    ```
    `code` is just your own reference — pick anything memorable, it's not
    checked against anything. When someone donates and quotes the code, you
-   know which PDF to email them.
+   know which PDF to email them. `description` is optional — shown under
+   the title in the preview panel; leave it out to hide that line.
 3. `PAYPAL_BUSINESS` / `PAYPAL_CURRENCY` are set in `index.html` if you
    ever need to change the receiving PayPal address.
 

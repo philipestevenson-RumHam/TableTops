@@ -146,8 +146,21 @@
 
   /* ── viewer ── */
   .viewer-panel { height: 100%; min-height: 0; display: flex; flex-direction: column; }
-  .viewer-header { display: flex; align-items: center; justify-content: space-between; margin-bottom: 0.75rem; }
-  .viewer-header h2 { font-size: 1rem; font-weight: 800; }
+  .viewer-header { display: flex; align-items: flex-start; justify-content: space-between; gap: 0.75rem; margin-bottom: 0.5rem; }
+  .viewer-header h2 { font-size: 1.25rem; font-weight: 800; flex: 1; min-width: 0; }
+  .viewer-header-code {
+    flex-shrink: 0;
+    font-size: 0.62rem;
+    font-weight: 800;
+    letter-spacing: 0.05em;
+    color: var(--accent);
+    background: rgba(245,200,0,0.1);
+    border: 1px solid rgba(245,200,0,0.35);
+    border-radius: 99px;
+    padding: 0.1rem 0.5rem;
+    white-space: nowrap;
+  }
+  .viewer-description { font-size: 0.85rem; color: var(--muted); line-height: 1.45; margin-bottom: 0.75rem; }
   .viewer-stage {
     position: relative;
     flex: 1;
@@ -276,8 +289,9 @@
   <div class="panel viewer-panel">
     <div class="viewer-header">
       <h2 id="viewerTitle">Pick a quiz to preview</h2>
-      <span id="viewerCode" class="quiz-item qcode" style="display:none"></span>
+      <span id="viewerCode" class="viewer-header-code" style="display:none"></span>
     </div>
+    <div class="viewer-description" id="viewerDescription" style="display:none"></div>
     <div class="viewer-stage" id="viewerStage">
       <div class="viewer-empty">Select a quiz sheet on the left to preview it here.</div>
     </div>
@@ -353,6 +367,14 @@ function selectQuiz(q) {
   const codeEl = document.getElementById('viewerCode');
   codeEl.textContent = q.code;
   codeEl.style.display = 'inline-block';
+
+  const descEl = document.getElementById('viewerDescription');
+  if (q.description) {
+    descEl.textContent = q.description;
+    descEl.style.display = 'block';
+  } else {
+    descEl.style.display = 'none';
+  }
 
   document.getElementById('donateCode').textContent = q.code;
 
