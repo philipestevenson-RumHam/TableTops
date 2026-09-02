@@ -67,27 +67,34 @@
     "title": "Poorly Described Films 01",
     "code": "RH-GK010",
     "description": "25 Poorly Described Films",
-    "file": "quizzes/Poorly_Described_Films_01.pdf"
+    "file": "quizzes/Poorly_Described_Films_01_Quiz.pdf"
   },
   {
     "id": "Q0011",
     "title": "Poorly Described Films 02",
     "code": "RH-GK011",
     "description": "26 Poorly Described Films",
-    "file": "quizzes/Poorly_Described_Films_02.pdf"
+    "file": "quizzes/Poorly_Described_Films_02_Quiz.pdf"
   },
   {
     "id": "Q0012",
     "title": "Poorly Described Films 03",
     "code": "RH-GK012",
     "description": "27 Poorly Described Films",
-    "file": "quizzes/Poorly_Described_Films_03.pdf"
+    "file": "quizzes/Poorly_Described_Films_03_Quiz.pdf"
   },
   {
     "id": "Q0013",
     "title": "Poorly Described Films 04",
     "code": "RH-GK013",
     "description": "28 Poorly Described Films",
-    "file": "quizzes/Poorly_Described_Films_04.pdf"
+    "file": "quizzes/Poorly_Described_Films_04_Quiz.pdf"
+  },
+  {
+    "id": "Q0014",
+    "title": "Caricature",
+    "code": "RH-GK014",
+    "description": "25 Caricature of Celebrities",
+    "file": "quizzes/Caricature_Quiz.pdf"
   }
 ]
