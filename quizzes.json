@@ -144,6 +144,13 @@
     "title": "Acting is a Drag",
     "code": "RH-GK021",
     "description": "25 Images of Celebrities dressed as the opposite sex.",
+    "file": "quizzes/Classic_Adverts_Quiz.pdf"
+  },
+  {
+    "id": "Q0022",
+    "title": "Classic Adverts",
+    "code": "RH-GK022",
+    "description": "25 Images of Classic Adverts - Name the Product / Company.",
     "file": "quizzes/Nazis_Quiz.pdf"
   }
 ]
