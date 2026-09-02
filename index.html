@@ -172,6 +172,8 @@
   .viewer-loading { margin: auto; color: var(--muted); font-weight: 700; }
   .page-nav { display: flex; gap: 0.5rem; align-items: center; margin-top: 0.75rem; justify-content: center; }
   .page-nav span { font-size: 0.8rem; color: var(--muted); font-weight: 700; }
+  .nav-btn { width: auto; padding: 0.45rem 0.9rem; font-size: 0.8rem; }
+  .nav-btn:disabled { opacity: 0.4; cursor: not-allowed; transform: none; }
 
   /* ── donate ── */
   .donate-code {
@@ -257,6 +259,11 @@
     </div>
     <div class="viewer-stage" id="viewerStage">
       <div class="viewer-empty">Select a quiz sheet on the left to preview it here.</div>
+    </div>
+    <div class="page-nav" id="pageNav" style="display:none">
+      <button class="nav-btn" id="prevPageBtn" onclick="prevPage()">&larr; Prev</button>
+      <span id="pageIndicator">Page 1 of 1</span>
+      <button class="nav-btn" id="nextPageBtn" onclick="nextPage()">Next &rarr;</button>
     </div>
   </div>
 
@@ -354,37 +361,58 @@ function copyCode() {
   navigator.clipboard.writeText(currentQuiz.code);
 }
 
+let currentPdf = null;
+let currentPage = 1;
+
 async function loadPdf(q) {
   const stage = document.getElementById('viewerStage');
+  const nav = document.getElementById('pageNav');
+  nav.style.display = 'none';
   stage.innerHTML = '<div class="viewer-loading">Loading preview…</div>';
 
   try {
     const loadingTask = pdfjsLib.getDocument(q.file);
-    const pdf = await loadingTask.promise;
-    stage.innerHTML = '';
-
-    for (let pageNum = 1; pageNum <= pdf.numPages; pageNum++) {
-      const page = await pdf.getPage(pageNum);
-      const scale = 1.4;
-      const viewport = page.getViewport({ scale });
-
-      const canvas = document.createElement('canvas');
-      canvas.width = viewport.width;
-      canvas.height = viewport.height;
-      canvas.draggable = false;
-      canvas.oncontextmenu = () => false;
-      canvas.ondragstart = () => false;
-
-      const ctx = canvas.getContext('2d');
-      await page.render({ canvasContext: ctx, viewport }).promise;
-      stage.appendChild(canvas);
-    }
-
-    addWatermark(stage, q.code);
+    currentPdf = await loadingTask.promise;
+    currentPage = 1;
+    await renderPage(currentPage);
+    nav.style.display = currentPdf.numPages > 1 ? 'flex' : 'none';
   } catch (err) {
-    stage.innerHTML = '<div class="viewer-empty">Couldn\'t load this preview. Check the PDF path in the QUIZZES list.</div>';
+    stage.innerHTML = '<div class="viewer-empty">Couldn\'t load this preview. Check the PDF path in the quizzes.json list.</div>';
     console.error(err);
   }
+}
+
+async function renderPage(num) {
+  const stage = document.getElementById('viewerStage');
+  const page = await currentPdf.getPage(num);
+  const scale = 1.4;
+  const viewport = page.getViewport({ scale });
+
+  const canvas = document.createElement('canvas');
+  canvas.width = viewport.width;
+  canvas.height = viewport.height;
+  canvas.draggable = false;
+  canvas.oncontextmenu = () => false;
+  canvas.ondragstart = () => false;
+
+  const ctx = canvas.getContext('2d');
+  await page.render({ canvasContext: ctx, viewport }).promise;
+
+  stage.innerHTML = '';
+  stage.appendChild(canvas);
+  addWatermark(stage, currentQuiz.code);
+
+  document.getElementById('pageIndicator').textContent = `Page ${num} of ${currentPdf.numPages}`;
+  document.getElementById('prevPageBtn').disabled = num <= 1;
+  document.getElementById('nextPageBtn').disabled = num >= currentPdf.numPages;
+}
+
+function prevPage() {
+  if (currentPage > 1) { currentPage--; renderPage(currentPage); }
+}
+
+function nextPage() {
+  if (currentPdf && currentPage < currentPdf.numPages) { currentPage++; renderPage(currentPage); }
 }
 
 function addWatermark(stage, code) {
