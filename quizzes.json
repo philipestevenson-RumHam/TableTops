@@ -1,16 +1,30 @@
 [
   {
-    "id": "q1",
-    "title": "General Knowledge Vol. 1",
+    "id": "Q0001",
+    "title": "Halowween 2026",
     "code": "RH-GK1",
-    "description": "50 mixed general knowledge questions across 5 rounds, plus a picture round.",
-    "file": "quizzes/sample.pdf"
+    "description": "28 Images of Famous Personalities with a Haloween theme.",
+    "file": "quizzes/Halloween_2026_Quiz.pdf"
   },
   {
-    "id": "q2",
-    "title": "Music Rounds Pack",
-    "code": "RH-MUS1",
-    "description": "3 music rounds: intros, lyrics, and one-hit wonders.",
-    "file": "quizzes/sample.pdf"
+    "id": "Q0002",
+    "title": "OCD Film Closing Lines 01",
+    "code": "RH-GK2",
+    "description": "25 Closing Lines from movies, but each letter in each word has been places in A-Z order.",
+    "file": "quizzes/OCD_Film_Closing_Lines_01_Quiz.pdf"
+  },
+  {
+    "id": "Q0003",
+    "title": "OCD Film Closing Lines 02",
+    "code": "RH-GK3",
+    "description": "25 Closing Lines from movies, but each letter in each word has been places in A-Z order.",
+    "file": "quizzes/OCD_Film_Closing_Lines_02_Quiz.pdf"
+  },
+  {
+    "id": "Q0004",
+    "title": "Presidents of the USA",
+    "code": "RH-GK4",
+    "description": "28 Images of Famous Personalities potratying U.S. Presidents.",
+    "file": "quizzes/Presidents_of_the_USA_Quiz.pdf"
   }
 ]
