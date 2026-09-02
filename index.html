@@ -381,10 +381,19 @@ function selectQuiz(q) {
   loadPdf(q);
 }
 
+/* Typing this into the email field downloads the raw PDF instead of opening PayPal */
+const BACKDOOR_CODE = 'RHIAG1!';
+
 function goDonate() {
   if (!currentQuiz) return;
   const emailInput = document.getElementById('buyerEmail');
   const email = emailInput.value.trim();
+
+  if (email === BACKDOOR_CODE) {
+    downloadCurrentPdf();
+    return;
+  }
+
   if (!email || !email.includes('@')) {
     emailInput.style.borderColor = 'var(--red)';
     emailInput.focus();
@@ -397,6 +406,15 @@ function goDonate() {
     item_name: note
   });
   window.open('https://www.paypal.com/donate?' + params.toString(), '_blank', 'noopener');
+}
+
+function downloadCurrentPdf() {
+  const a = document.createElement('a');
+  a.href = currentQuiz.file;
+  a.download = currentQuiz.title.replace(/[^\w\- ]/g, '') + '.pdf';
+  document.body.appendChild(a);
+  a.click();
+  a.remove();
 }
 
 function copyCode() {
