@@ -222,5 +222,12 @@
     "code": "RH-GK032",
     "description": "25 Images of Actors wearing face coverings in roles. Just name the Actor.",
     "file": "quizzes/Who's_Behind_The_Mask_Quiz.pdf"
+  },
+  {
+    "id": "Q0033",
+    "title": "Film Objects",
+    "code": "RH-GK033",
+    "description": "25 Images of Objects in Film. Just name the Film.",
+    "file": "quizzes/Film_Objects_Quiz.pdf"
   }
 ]
