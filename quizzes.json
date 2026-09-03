@@ -187,5 +187,40 @@
     "code": "RH-GK027",
     "description": "25 Cryptic Images of Popular Films",
     "file": "quizzes/Film_Dingbats_Quiz.pdf"
+  },
+  {
+    "id": "Q0028",
+    "title": "Kens Quiz",
+    "code": "RH-GK028",
+    "description": "25 Name The Celebrity Images. All either contain the name \"Ken\" or are known for playing a character with \"Ken\" in the name.",
+    "file": "quizzes/Kens_Quiz.pdf"
+  },
+  {
+    "id": "Q0029",
+    "title": "Michaels",
+    "code": "RH-GK029",
+    "description": "25 Name The Celebrity Images.",
+    "file": "quizzes/Michaels_Quiz.pdf"
+  },
+  {
+    "id": "Q0030",
+    "title": "Michaels (Tiled)",
+    "code": "RH-GK030",
+    "description": "25 Name The Celebrity Images (Images Spliced and Tiled)",
+    "file": "quizzes/Michaels_(Tiled)_Quiz.pdf"
+  },
+  {
+    "id": "Q0031",
+    "title": "Michaels",
+    "code": "RH-GK031",
+    "description": "25 Name The Celebrity Images.",
+    "file": "quizzes/Robs_Quiz.pdf"
+  },
+  {
+    "id": "Q0032",
+    "title": "Who's Behind The Mask",
+    "code": "RH-GK032",
+    "description": "25 Images of Actors wearing face coverings in roles. Just name the Actor.",
+    "file": "quizzes/Who's_Behind_The_Mask_Quiz.pdf"
   }
 ]
