@@ -306,5 +306,12 @@
     "code": "RH-GK044",
     "description": "25 Images.Name both the Artist and Album - the Album art has been distorted.",
     "file": "quizzes/Artist_an_Album_(Distorted)_Quiz.pdf"
+  },
+  {
+    "id": "Q0045",
+    "title": "Lego-ed Movies",
+    "code": "RH-GK045",
+    "description": "25 Images.Name the film from the poster recreated in Lego.",
+    "file": "quizzes/Lego-ed_Movies_Quiz.pdf"
   }
 ]
