@@ -115,28 +115,28 @@
     "id": "Q0017",
     "title": "Halloween (Witches)",
     "code": "RH-GK017",
-    "description": "28 Images of Witches",
+    "description": "28 Images of Witches.",
     "file": "quizzes/Halloween_(Witches)_Quiz.pdf"
   },
   {
     "id": "Q0018",
     "title": "Marvel Villians",
     "code": "RH-GK018",
-    "description": "25 Images of Actors who have played a Marvel Villian",
+    "description": "25 Images of Actors who have played a Marvel Villian.",
     "file": "quizzes/Marvel_Villains_Quiz.pdf"
   },
   {
     "id": "Q0019",
     "title": "Marvel Villians (Tiled)",
     "code": "RH-GK019",
-    "description": "25 Images of Actors who have played a Marvel Villian (Images Spliced and Tiled)",
+    "description": "25 Images of Actors who have played a Marvel Villian (Images Spliced and Tiled).",
     "file": "quizzes/Marvel_Villains_(Tiled)_Quiz.pdf"
   },
   {
     "id": "Q0020",
     "title": "Nazis",
     "code": "RH-GK020",
-    "description": "25 Images of Celebrities dressed as Nazis",
+    "description": "25 Images of Celebrities dressed as Nazis.",
     "file": "quizzes/Nazis_Quiz.pdf"
   },
   {
@@ -178,14 +178,14 @@
     "id": "Q0026",
     "title": "That That Tune",
     "code": "RH-GK026",
-    "description": "25 Cryptic Songs and Artists",
+    "description": "25 Cryptic Songs and Artists.",
     "file": "quizzes/Name_That_Tune_Quiz.pdf"
   },
   {
     "id": "Q0027",
     "title": "Film Dingbats",
     "code": "RH-GK027",
-    "description": "25 Cryptic Images of Popular Films",
+    "description": "25 Cryptic Images of Popular Films.",
     "file": "quizzes/Film_Dingbats_Quiz.pdf"
   },
   {
@@ -206,7 +206,7 @@
     "id": "Q0030",
     "title": "Michaels (Tiled)",
     "code": "RH-GK030",
-    "description": "25 Name The Celebrity Images (Images Spliced and Tiled)",
+    "description": "25 Name The Celebrity Images (Images Spliced and Tiled).",
     "file": "quizzes/Michaels_(Tiled)_Quiz.pdf"
   },
   {
@@ -241,7 +241,7 @@
     "id": "Q0035",
     "title": "Rebus Sidekicks",
     "code": "RH-GK035",
-    "description": "25 Rebus Images of just the Sidekick - Name the Sidekick and their Main Character/Partner",
+    "description": "25 Rebus Images of just the Sidekick - Name the Sidekick and their Main Character/Partner.",
     "file": "quizzes/Rebus_Sidekicks_Quiz.pdf"
   },
   {
@@ -257,5 +257,26 @@
     "code": "RH-GK037",
     "description": "25 Images of 1% Club Puzzles.",
     "file": "quizzes/1_Percent_Club.pdf"
+  },
+  {
+    "id": "Q0038",
+    "title": "Rear of the Year",
+    "code": "RH-GK038",
+    "description": "25 Images of Celebrities who have won Rear of the Year.",
+    "file": "quizzes/Rear_of_the_Year_Quiz.pdf"
+  },
+  {
+    "id": "Q0039",
+    "title": "Rear of the Year (Tiled)",
+    "code": "RH-GK039",
+    "description": "25 Images of Celebrities who have won Rear of the Year  (Images Spliced and Tiled).",
+    "file": "quizzes/Rear_of_the_Year_(Tiled)_Quiz.pdf"
+  },
+  {
+    "id": "Q0040",
+    "title": "High Brow Low Brow (Cartoons and Art)",
+    "code": "RH-GK040",
+    "description": "25 Images. Name the Cartoon from the Silhouette, also the Famous Artwork, and the Artwork's Artist.",
+    "file": "quizzes/High_Brow_Low_Brow_(Cartoons_and_Art)_Quiz.pdf"
   }
 ]
