@@ -229,5 +229,33 @@
     "code": "RH-GK033",
     "description": "25 Images of Objects in Film. Just name the Film.",
     "file": "quizzes/Film_Objects_Quiz.pdf"
+  },
+  {
+    "id": "Q0034",
+    "title": "Rebus \"The\" Bands",
+    "code": "RH-GK034",
+    "description": "25 Rebus Images of \"The\" Bands. Each image is a visual pun or clue that represents a band name.",
+    "file": "quizzes/Rebus_The_Bands_Quiz.pdf"
+  },
+  {
+    "id": "Q0035",
+    "title": "Rebus Sidekicks",
+    "code": "RH-GK035",
+    "description": "25 Rebus Images of just the Sidekick - Name the Sidekick and their Main Character/Partner",
+    "file": "quizzes/Rebus_Sidekicks_Quiz.pdf"
+  },
+  {
+    "id": "Q0036",
+    "title": "Soap Characters",
+    "code": "RH-GK036",
+    "description": "25 Images. Combine the left image’s first name with the right image’s last name to make a soap character.",
+    "file": "quizzes/Soap_Characters_Quiz.pdf"
+  },
+  {
+    "id": "Q0037",
+    "title": "1% Club",
+    "code": "RH-GK037",
+    "description": "25 Images of 1% Club Puzzles.",
+    "file": "quizzes/1%_Club.pdf"
   }
 ]
