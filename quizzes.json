@@ -211,85 +211,99 @@
   },
   {
     "id": "Q0031",
-    "title": "Robs",
+    "title": "Johns",
     "code": "RH-GK031",
+    "description": "25 Name The Celebrity Images.",
+    "file": "quizzes/Johns_Quiz.pdf"
+  },
+  {
+    "id": "Q0032",
+    "title": "Johns (Tiled)",
+    "code": "RH-GK032",
+    "description": "25 Name The Celebrity Images (Images Spliced and Tiled).",
+    "file": "quizzes/Johns_(Tiled)_Quiz.pdf"
+  },
+  {
+    "id": "Q0033",
+    "title": "Robs",
+    "code": "RH-GK033",
     "description": "25 Name The Celebrity Images.",
     "file": "quizzes/Robs_Quiz.pdf"
   },
   {
-    "id": "Q0032",
+    "id": "Q0034",
     "title": "Who's Behind The Mask",
-    "code": "RH-GK032",
+    "code": "RH-GK034",
     "description": "25 Images of Actors wearing face coverings in roles. Just name the Actor.",
     "file": "quizzes/Who's_Behind_The_Mask_Quiz.pdf"
   },
   {
-    "id": "Q0033",
+    "id": "Q0035",
     "title": "Film Objects",
-    "code": "RH-GK033",
+    "code": "RH-GK035",
     "description": "25 Images of Objects in Film. Just name the Film.",
     "file": "quizzes/Film_Objects_Quiz.pdf"
   },
   {
-    "id": "Q0034",
+    "id": "Q0036",
     "title": "Rebus \"The\" Bands",
-    "code": "RH-GK034",
+    "code": "RH-GK036",
     "description": "25 Rebus Images of \"The\" Bands. Each image is a visual pun or clue that represents a band name.",
     "file": "quizzes/Rebus_The_Bands_Quiz.pdf"
   },
   {
-    "id": "Q0035",
+    "id": "Q0037",
     "title": "Rebus Sidekicks",
-    "code": "RH-GK035",
+    "code": "RH-GK037",
     "description": "25 Rebus Images of just the Sidekick - Name the Sidekick and their Main Character/Partner.",
     "file": "quizzes/Rebus_Sidekicks_Quiz.pdf"
   },
   {
-    "id": "Q0036",
+    "id": "Q0038",
     "title": "Soap Characters",
-    "code": "RH-GK036",
+    "code": "RH-GK038",
     "description": "25 Images. Combine the left image’s first name with the right image’s last name to make a soap character.",
     "file": "quizzes/Soap_Characters_Quiz.pdf"
   },
   {
-    "id": "Q0037",
+    "id": "Q0039",
     "title": "1% Club",
-    "code": "RH-GK037",
+    "code": "RH-GK039",
     "description": "25 Images of 1% Club Puzzles.",
     "file": "quizzes/1_Percent_Club.pdf"
   },
   {
-    "id": "Q0038",
+    "id": "Q0040",
     "title": "Rear of the Year",
-    "code": "RH-GK038",
+    "code": "RH-GK040",
     "description": "25 Images of Celebrities who have won Rear of the Year.",
     "file": "quizzes/Rear_of_the_Year_Quiz.pdf"
   },
   {
-    "id": "Q0039",
+    "id": "Q0041",
     "title": "Rear of the Year (Tiled)",
-    "code": "RH-GK039",
+    "code": "RH-GK041",
     "description": "25 Images of Celebrities who have won Rear of the Year  (Images Spliced and Tiled).",
     "file": "quizzes/Rear_of_the_Year_(Tiled)_Quiz.pdf"
   },
   {
-    "id": "Q0040",
+    "id": "Q0042",
     "title": "High Brow Low Brow (Cartoons and Art)",
-    "code": "RH-GK040",
+    "code": "RH-GK042",
     "description": "25 Images. Name the Cartoon from the Silhouette, also the Famous Artwork, and the Artwork's Artist.",
     "file": "quizzes/High_Brow_Low_Brow_(Cartoons_and_Art)_Quiz.pdf"
   },
   {
-    "id": "Q0041",
+    "id": "Q0043",
     "title": "Artist an Album (Pixelated)",
-    "code": "RH-GK041",
+    "code": "RH-GK043",
     "description": "25 Images.Name both the Artist and Album - the Album art has been pixelated.",
     "file": "quizzes/Artist_an_Album_(Pixelated)_Quiz.pdf"
   },
   {
-    "id": "Q0042",
+    "id": "Q0044",
     "title": "Artist an Album (Distorted)",
-    "code": "RH-GK042",
+    "code": "RH-GK044",
     "description": "25 Images.Name both the Artist and Album - the Album art has been distorted.",
     "file": "quizzes/Artist_an_Album_(Distorted)_Quiz.pdf"
   }
