@@ -425,6 +425,11 @@ function copyCode() {
 let currentPdf = null;
 let currentPage = 1;
 
+function toSmallPath(filePath) {
+  const filename = filePath.split('/').pop();
+  return 'small/' + filename;
+}
+
 async function loadPdf(q) {
   const stage = document.getElementById('viewerStage');
   const nav = document.getElementById('pageNav');
@@ -432,13 +437,13 @@ async function loadPdf(q) {
   stage.innerHTML = '<div class="viewer-loading">Loading preview…</div>';
 
   try {
-    const loadingTask = pdfjsLib.getDocument(q.file);
+    const loadingTask = pdfjsLib.getDocument(toSmallPath(q.file));
     currentPdf = await loadingTask.promise;
     currentPage = 1;
     await renderPage(currentPage);
     nav.style.display = currentPdf.numPages > 1 ? 'flex' : 'none';
   } catch (err) {
-    stage.innerHTML = '<div class="viewer-empty">Couldn\'t load this preview. Check the PDF path in the quizzes.json list.</div>';
+    stage.innerHTML = '<div class="viewer-empty">Couldn\'t load this preview. Check that small/' + q.file.split('/').pop() + ' exists.</div>';
     console.error(err);
   }
 }

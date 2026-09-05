@@ -10,8 +10,18 @@ reference code so you know which sheet to email them.
 3. Your site is live at `https://<username>.github.io/<repo>/`.
 
 ## Add your quizzes
-1. Drop each PDF into `quizzes/`.
-2. Open `quizzes.json` and add an entry:
+Each quiz needs **two copies of the same PDF, same filename**:
+- `quizzes/` — the full-size original. This is what gets downloaded via the
+  password backdoor.
+- `small/` (top-level, next to `quizzes/`) — a compressed copy (see below
+  for how). This is what the website actually previews, so big originals
+  don't slow anyone's browser down.
+
+1. Drop the full-size PDF into `quizzes/`, and a compressed version with
+   **the exact same filename** into `small/`.
+2. Open `quizzes.json` and add an entry, with `file` pointing at the
+   `quizzes/` (full-size) copy — the site works out the `small/` path
+   itself from the filename:
    ```json
    { "id": "q3", "title": "Sports Special", "code": "RH-SPT1", "description": "5 rounds on football, olympics and general sport.", "file": "quizzes/sports-special.pdf" }
    ```
