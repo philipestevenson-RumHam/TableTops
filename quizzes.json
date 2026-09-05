@@ -297,21 +297,84 @@
     "id": "Q0043",
     "title": "Artist an Album (Pixelated)",
     "code": "RH-GK043",
-    "description": "25 Images.Name both the Artist and Album - the Album art has been pixelated.",
+    "description": "25 Images. Name both the Artist and Album - the Album art has been pixelated.",
     "file": "quizzes/Artist_an_Album_(Pixelated)_Quiz.pdf"
   },
   {
     "id": "Q0044",
     "title": "Artist an Album (Distorted)",
     "code": "RH-GK044",
-    "description": "25 Images.Name both the Artist and Album - the Album art has been distorted.",
+    "description": "25 Images. Name both the Artist and Album - the Album art has been distorted.",
     "file": "quizzes/Artist_an_Album_(Distorted)_Quiz.pdf"
   },
   {
     "id": "Q0045",
     "title": "Lego-ed Movies",
     "code": "RH-GK045",
-    "description": "25 Images.Name the film from the poster recreated in Lego.",
+    "description": "25 Images. Name the film from the poster recreated in Lego.",
     "file": "quizzes/Lego-ed_Movies_Quiz.pdf"
+  },
+  {
+    "id": "Q0046",
+    "title": "Music Videos",
+    "code": "RH-GK046",
+    "description": "25 Images. Name the Artist and Track from the Image of the Music Video",
+    "file": "quizzes/Music_Videos_Quiz.pdf"
+  },
+  {
+    "id": "Q0047",
+    "title": "Rebus British TV Shows",
+    "code": "RH-GK047",
+    "description": "25 Rebus Images of British TV Shows. Each image is a visual pun or clue that represents a band name.",
+    "file": "quizzes/Rebus_British_TV_Shows_Quiz"
+  },
+  {
+    "id": "Q0048",
+    "title": "Big Down Under",
+    "code": "RH-GK048",
+    "description": "25 Images. All Famous Australians with two exceptions.",
+    "file": "quizzes/Big_Down_Under_Quiz.pdf"
+  },
+  {
+    "id": "Q0049",
+    "title": "Brands",
+    "code": "RH-GK049",
+    "description": "25 Images. Name the Brand.",
+    "file": "quizzes/Brands_Quiz.pdf"
+  },
+  {
+    "id": "Q0050",
+    "title": "Simpson",
+    "code": "RH-GK050",
+    "description": "25 Images. The pictures show famous people who have appeared in The Simpsons: some voiced a character, some appeared as themselves, and some were represented in Simpsons style.",
+    "file": "quizzes/Simpsons_Quiz.pdf"
+  },
+  {
+    "id": "Q0051",
+    "title": "Papa Was A Rollin' Stone",
+    "code": "RH-GK051",
+    "description": "25 Images.Name the Pictured Celebrity and their Famous Parent(s).",
+    "file": "quizzes/Papa_Was_A_Rollin_Stone_Quiz.pdf"
+  },
+  {
+    "id": "Q0052",
+    "title": "2024 Deaths",
+    "code": "RH-GK052",
+    "description": "25 Images.Name the Celebrity that passed in 2024.",
+    "file": "quizzes/2024_Deaths_Quiz.pdf"
+  },
+  {
+    "id": "Q0053",
+    "title": "2025 Deaths",
+    "code": "RH-GK053",
+    "description": "25 Images.Name the Celebrity that passed in 2025.",
+    "file": "quizzes/2025_Deaths_Quiz.pdf"
+  },
+  {
+    "id": "Q0054",
+    "title": "2025 Deaths (zombied)",
+    "code": "RH-GK054",
+    "description": "25 Images.Name the Celebrity that passed in 2025 (zombie filtered).",
+    "file": "quizzes/2025_Deaths_(zombied)_Quiz.pdf"
   }
 ]
