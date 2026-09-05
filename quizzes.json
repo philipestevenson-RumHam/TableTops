@@ -376,5 +376,19 @@
     "code": "RH-GK054",
     "description": "25 Images.Name the Celebrity that passed in 2025 (zombie filtered).",
     "file": "quizzes/2025_Deaths_(zombied)_Quiz.pdf"
+  },
+  {
+    "id": "Q0055",
+    "title": "Dragons, Fairies, Witches and Wizards",
+    "code": "RH-GK055",
+    "description": "28 Images.Name the film or franchise the image belongs to.",
+    "file": "quizzes/Dragons,_Fairies,_Witches_and_Wizards_Quiz.pdf"
+  },
+  {
+    "id": "Q0056",
+    "title": "It's a Puppet",
+    "code": "RH-GK056",
+    "description": "25 Images.Name the Puppet.",
+    "file": "quizzes/It's_a_Puppet_Quiz.pdf"
   }
 ]
