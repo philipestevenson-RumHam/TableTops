@@ -390,5 +390,12 @@
     "code": "RH-GK056",
     "description": "25 Images.Name the Puppet.",
     "file": "quizzes/It's_a_Puppet_Quiz.pdf"
+  },
+  {
+    "id": "Q0057",
+    "title": "Number Ones",
+    "code": "RH-GK057",
+    "description": "30 Images.All of these are UK Number One singles containing the string “ONE” somewhere in the title; the rest of each title has been encoded using V for vowels and C for consonants. Artist initials and the year are provided—name the song.",
+    "file": "quizzes/Number_Ones_Quiz.pdf"
   }
 ]
