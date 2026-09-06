@@ -118,9 +118,8 @@
 
     <div class="field-list">
       Expected columns (any order, header row required): <b>id</b>, <b>title</b>, <b>code</b>,
-      <b>description</b> <i>(optional)</i>, <b>free</b> <i>(optional — yes/no)</i>, <b>file</b>.
-      Any punctuation, quotes, apostrophes, emoji, accents, etc. in your cells are handled
-      automatically — no need to escape anything.
+      <b>description</b> <i>(optional)</i>, <b>file</b>. Any punctuation, quotes, apostrophes,
+      emoji, accents, etc. in your cells are handled automatically — no need to escape anything.
     </div>
   </div>
 
@@ -139,7 +138,7 @@
 
 <script>
 const REQUIRED = ['title', 'code', 'file'];
-const ALL_FIELDS = ['id', 'title', 'code', 'description', 'free', 'file'];
+const ALL_FIELDS = ['id', 'title', 'code', 'description', 'file'];
 let generatedJson = null;
 
 const dropZone = document.getElementById('dropZone');
@@ -185,12 +184,6 @@ function handleFile(file) {
   reader.readAsArrayBuffer(file);
 }
 
-function parseFree(val) {
-  if (val === undefined || val === null) return false;
-  const s = String(val).trim().toLowerCase();
-  return s === 'yes' || s === 'y' || s === 'true' || s === '1';
-}
-
 function processRows(rows) {
   if (!rows.length) {
     setStatus('No rows found in the first sheet.', 'err');
@@ -212,7 +205,6 @@ function processRows(rows) {
       title: norm.title || '',
       code: norm.code || '',
       description: norm.description || '',
-      free: parseFree(norm.free),
       file: norm.file || ''
     };
 
@@ -220,7 +212,6 @@ function processRows(rows) {
     if (rowIssues.length) issues.push(...rowIssues);
 
     if (!entry.description) delete entry.description; // keep JSON clean when unused
-    if (!entry.free) delete entry.free; // keep JSON clean when unused
 
     cleaned.push({ entry, hasError: rowIssues.length > 0 });
   });

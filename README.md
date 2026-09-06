@@ -29,6 +29,9 @@ Each quiz needs **two copies of the same PDF, same filename**:
    checked against anything. When someone donates and quotes the code, you
    know which PDF to email them. `description` is optional — shown under
    the title in the preview panel; leave it out to hide that line.
+   Add `"free": true` to skip the donate flow entirely for that quiz — the
+   right panel shows a "Free Sheet" download button instead, no email or
+   PayPal step. Leave it out (or `false`) for the normal donate flow.
 3. `PAYPAL_BUSINESS` / `PAYPAL_CURRENCY` are set in `index.html` if you
    ever need to change the receiving PayPal address.
 
