@@ -397,5 +397,47 @@
     "code": "RH-GK057",
     "description": "30 Images.All of these are UK Number One singles containing the string “ONE” somewhere in the title; the rest of each title has been encoded using V for vowels and C for consonants. Artist initials and the year are provided—name the song.",
     "file": "quizzes/Number_Ones_Quiz.pdf"
+  },
+  {
+    "id": "Q0058",
+    "title": "Mixed Up Jigsaws",
+    "code": "RH-GK058",
+    "description": "25 Images. The Pictures show a complete jigsaw - Unfortunately a Character has been mixed up with an Actor that either voice or plays them.  Name both the Actor and the Character.",
+    "file": "quizzes/Mixed_Up_Jigsaws_Quiz.pdf"
+  },
+  {
+    "id": "Q0059",
+    "title": "Captains",
+    "code": "RH-GK059",
+    "description": "25 Images of Actors, Charaters and Dingbats all Captain themed.",
+    "file": "quizzes/Captains_Quiz.pdf"
+  },
+  {
+    "id": "Q0060",
+    "title": "Artists - One Changed Letter",
+    "code": "RH-GK060",
+    "description": "25 Images. Each image represents a music artist whose name has had one letter changed. The changed letter is shown above the picture, and the replacement letter below. The picture itself is a literal, graphical representation of the changed name. Your task is to identify the original artist.",
+    "file": "quizzes/Artists_-_One_Changed_Letter_Quiz.pdf"
+  },
+  {
+    "id": "Q0061",
+    "title": "Hiddden Anagram: UK Sitcoms",
+    "code": "RH-GK061",
+    "description": "25 Images. Name the Sitcom. Bonus if you take the first letter of each answer and rearange them you get a British Comedian and Film they stared in. Answer: Sid James, Carry On Regardless.",
+    "file": "quizzes/UK_Sitcoms_Quiz.pdf"
+  },
+  {
+    "id": "Q0062",
+    "title": "Hiddden Anagram: Celebrities 01",
+    "code": "RH-GK062",
+    "description": "25 Images. Name the Celebrity. Bonus if you take the first letter of each answer and rearange them you get Actor and Film they stared in. Answer: Leonardo DiCaprio, Inception.",
+    "file": "quizzes/Celebrities_01_Quiz.pdf"
+  },
+  {
+    "id": "Q0063",
+    "title": "Hiddden Anagram: Celebrities 02",
+    "code": "RH-GK063",
+    "description": "25 Images. Name the Celebrity. Bonus if you take the first letter of each answer and rearange them you a Film. Answer: The Rocky Horror Picture Show.",
+    "file": "quizzes/Celebrities_02_Quiz.pdf"
   }
 ]
