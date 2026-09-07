@@ -440,5 +440,12 @@
     "code": "RH-GK063",
     "description": "25 Images. Name the Celebrity. Bonus if you take the first letter of each answer and rearange them you a Film. Answer: The Rocky Horror Picture Show.",
     "file": "quizzes/Celebrities_02_Quiz.pdf"
+  },
+  {
+    "id": "Q0064",
+    "title": "Shared Role",
+    "code": "RH-GK064",
+    "description": "12 Images. Name the Role and the two Actors who shared it.",
+    "file": "quizzes/Shared_Role_Quiz.pdf"
   }
 ]
