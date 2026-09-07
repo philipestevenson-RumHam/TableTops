@@ -121,330 +121,337 @@
   },
   {
     "id": "Q0018",
-    "title": "Marvel Villians",
+    "title": "Halloween (Dingbats)",
     "code": "RH-GK018",
+    "description": "25 Images of Halloween Dingbats. This is a joke, or Trick, round - there are no answers. They are all nonscience.",
+    "file": "quizzes/Halloween_(Trick_or_Treat)_Quiz.pdf"
+  },
+  {
+    "id": "Q0019",
+    "title": "Marvel Villians",
+    "code": "RH-GK019",
     "description": "25 Images of Actors who have played a Marvel Villian.",
     "file": "quizzes/Marvel_Villains_Quiz.pdf"
   },
   {
-    "id": "Q0019",
+    "id": "Q0020",
     "title": "Marvel Villians (Tiled)",
-    "code": "RH-GK019",
+    "code": "RH-GK020",
     "description": "25 Images of Actors who have played a Marvel Villian (Images Spliced and Tiled).",
     "file": "quizzes/Marvel_Villains_(Tiled)_Quiz.pdf"
   },
   {
-    "id": "Q0020",
+    "id": "Q0021",
     "title": "Nazis",
-    "code": "RH-GK020",
+    "code": "RH-GK021",
     "description": "25 Images of Celebrities dressed as Nazis.",
     "file": "quizzes/Nazis_Quiz.pdf"
   },
   {
-    "id": "Q0021",
+    "id": "Q0022",
     "title": "Acting is a Drag",
-    "code": "RH-GK021",
+    "code": "RH-GK022",
     "description": "25 Images of Celebrities dressed as the opposite sex.",
     "file": "quizzes/Acting_is_a_Drag_Quiz.pdf"
   },
   {
-    "id": "Q0022",
+    "id": "Q0023",
     "title": "Classic Adverts",
-    "code": "RH-GK022",
+    "code": "RH-GK023",
     "description": "25 Images of Classic Adverts - Name the Product / Company.",
     "file": "quizzes/Classic_Adverts_Quiz.pdf"
   },
   {
-    "id": "Q0023",
+    "id": "Q0024",
     "title": "Clergy",
-    "code": "RH-GK023",
+    "code": "RH-GK024",
     "description": "25 Images of Celebrities dressed as Clergy.",
     "file": "quizzes/Clergy_Quiz.pdf"
   },
   {
-    "id": "Q0024",
+    "id": "Q0025",
     "title": "Redheads",
-    "code": "RH-GK024",
+    "code": "RH-GK025",
     "description": "25 Images of Celebrities Redheads.",
     "file": "quizzes/Readheads_Quiz.pdf"
   },
   {
-    "id": "Q0025",
+    "id": "Q0026",
     "title": "Chorus",
-    "code": "RH-GK025",
+    "code": "RH-GK026",
     "description": "Name the artist from the song chorus, words that appear in the title have been replaced with a 'Note' and vowels replaced by a 'Dash'.",
     "file": "quizzes/Chorus_Quiz.pdf"
   },
   {
-    "id": "Q0026",
+    "id": "Q0027",
     "title": "That That Tune",
-    "code": "RH-GK026",
+    "code": "RH-GK027",
     "description": "25 Cryptic Songs and Artists.",
     "file": "quizzes/Name_That_Tune_Quiz.pdf"
   },
   {
-    "id": "Q0027",
+    "id": "Q0028",
     "title": "Film Dingbats",
-    "code": "RH-GK027",
+    "code": "RH-GK028",
     "description": "25 Cryptic Images of Popular Films.",
     "file": "quizzes/Film_Dingbats_Quiz.pdf"
   },
   {
-    "id": "Q0028",
+    "id": "Q0029",
     "title": "Kens Quiz",
-    "code": "RH-GK028",
+    "code": "RH-GK029",
     "description": "25 Name The Celebrity Images. All either contain the name \"Ken\" or are known for playing a character with \"Ken\" in the name.",
     "file": "quizzes/Kens_Quiz.pdf"
   },
   {
-    "id": "Q0029",
+    "id": "Q0030",
     "title": "Michaels",
-    "code": "RH-GK029",
+    "code": "RH-GK030",
     "description": "25 Name The Celebrity Images.",
     "file": "quizzes/Michaels_Quiz.pdf"
   },
   {
-    "id": "Q0030",
+    "id": "Q0031",
     "title": "Michaels (Tiled)",
-    "code": "RH-GK030",
+    "code": "RH-GK031",
     "description": "25 Name The Celebrity Images (Images Spliced and Tiled).",
     "file": "quizzes/Michaels_(Tiled)_Quiz.pdf"
   },
   {
-    "id": "Q0031",
+    "id": "Q0032",
     "title": "Johns",
-    "code": "RH-GK031",
+    "code": "RH-GK032",
     "description": "25 Name The Celebrity Images.",
     "file": "quizzes/Johns_Quiz.pdf"
   },
   {
-    "id": "Q0032",
+    "id": "Q0033",
     "title": "Johns (Tiled)",
-    "code": "RH-GK032",
+    "code": "RH-GK033",
     "description": "25 Name The Celebrity Images (Images Spliced and Tiled).",
     "file": "quizzes/Johns_(Tiled)_Quiz.pdf"
   },
   {
-    "id": "Q0033",
+    "id": "Q0034",
     "title": "Robs",
-    "code": "RH-GK033",
+    "code": "RH-GK034",
     "description": "25 Name The Celebrity Images.",
     "file": "quizzes/Robs_Quiz.pdf"
   },
   {
-    "id": "Q0034",
+    "id": "Q0035",
     "title": "Who's Behind The Mask",
-    "code": "RH-GK034",
+    "code": "RH-GK035",
     "description": "25 Images of Actors wearing face coverings in roles. Just name the Actor.",
     "file": "quizzes/Who's_Behind_The_Mask_Quiz.pdf"
   },
   {
-    "id": "Q0035",
+    "id": "Q0036",
     "title": "Film Objects",
-    "code": "RH-GK035",
+    "code": "RH-GK036",
     "description": "25 Images of Objects in Film. Just name the Film.",
     "file": "quizzes/Film_Objects_Quiz.pdf"
   },
   {
-    "id": "Q0036",
+    "id": "Q0037",
     "title": "Rebus \"The\" Bands",
-    "code": "RH-GK036",
+    "code": "RH-GK037",
     "description": "25 Rebus Images of \"The\" Bands. Each image is a visual pun or clue that represents a band name.",
     "file": "quizzes/Rebus_The_Bands_Quiz.pdf"
   },
   {
-    "id": "Q0037",
+    "id": "Q0038",
     "title": "Rebus Sidekicks",
-    "code": "RH-GK037",
+    "code": "RH-GK038",
     "description": "25 Rebus Images of just the Sidekick - Name the Sidekick and their Main Character/Partner.",
     "file": "quizzes/Rebus_Sidekicks_Quiz.pdf"
   },
   {
-    "id": "Q0038",
+    "id": "Q0039",
     "title": "Soap Characters",
-    "code": "RH-GK038",
+    "code": "RH-GK039",
     "description": "25 Images. Combine the left image’s first name with the right image’s last name to make a soap character.",
     "file": "quizzes/Soap_Characters_Quiz.pdf"
   },
   {
-    "id": "Q0039",
+    "id": "Q0040",
     "title": "1% Club",
-    "code": "RH-GK039",
+    "code": "RH-GK040",
     "description": "25 Images of 1% Club Puzzles.",
     "file": "quizzes/1_Percent_Club.pdf"
   },
   {
-    "id": "Q0040",
+    "id": "Q0041",
     "title": "Rear of the Year",
-    "code": "RH-GK040",
+    "code": "RH-GK041",
     "description": "25 Images of Celebrities who have won Rear of the Year.",
     "file": "quizzes/Rear_of_the_Year_Quiz.pdf"
   },
   {
-    "id": "Q0041",
+    "id": "Q0042",
     "title": "Rear of the Year (Tiled)",
-    "code": "RH-GK041",
+    "code": "RH-GK042",
     "description": "25 Images of Celebrities who have won Rear of the Year  (Images Spliced and Tiled).",
     "file": "quizzes/Rear_of_the_Year_(Tiled)_Quiz.pdf"
   },
   {
-    "id": "Q0042",
+    "id": "Q0043",
     "title": "High Brow Low Brow (Cartoons and Art)",
-    "code": "RH-GK042",
+    "code": "RH-GK043",
     "description": "25 Images. Name the Cartoon from the Silhouette, also the Famous Artwork, and the Artwork's Artist.",
     "file": "quizzes/High_Brow_Low_Brow_(Cartoons_and_Art)_Quiz.pdf"
   },
   {
-    "id": "Q0043",
+    "id": "Q0044",
     "title": "Artist an Album (Pixelated)",
-    "code": "RH-GK043",
+    "code": "RH-GK044",
     "description": "25 Images. Name both the Artist and Album - the Album art has been pixelated.",
     "file": "quizzes/Artist_an_Album_(Pixelated)_Quiz.pdf"
   },
   {
-    "id": "Q0044",
+    "id": "Q0045",
     "title": "Artist an Album (Distorted)",
-    "code": "RH-GK044",
+    "code": "RH-GK045",
     "description": "25 Images. Name both the Artist and Album - the Album art has been distorted.",
     "file": "quizzes/Artist_an_Album_(Distorted)_Quiz.pdf"
   },
   {
-    "id": "Q0045",
+    "id": "Q0046",
     "title": "Lego-ed Movies",
-    "code": "RH-GK045",
+    "code": "RH-GK046",
     "description": "25 Images. Name the film from the poster recreated in Lego.",
     "file": "quizzes/Lego-ed_Movies_Quiz.pdf"
   },
   {
-    "id": "Q0046",
+    "id": "Q0047",
     "title": "Music Videos",
-    "code": "RH-GK046",
+    "code": "RH-GK047",
     "description": "25 Images. Name the Artist and Track from the Image of the Music Video",
     "file": "quizzes/Music_Videos_Quiz.pdf"
   },
   {
-    "id": "Q0047",
+    "id": "Q0048",
     "title": "Rebus British TV Shows",
-    "code": "RH-GK047",
+    "code": "RH-GK048",
     "description": "25 Rebus Images of British TV Shows. Each image is a visual pun or clue that represents a band name.",
     "file": "quizzes/Rebus_British_TV_Shows_Quiz.pdf"
   },
   {
-    "id": "Q0048",
+    "id": "Q0049",
     "title": "Big Down Under",
-    "code": "RH-GK048",
+    "code": "RH-GK049",
     "description": "25 Images. All Famous Australians with two exceptions.",
     "file": "quizzes/Big_Down_Under_Quiz.pdf"
   },
   {
-    "id": "Q0049",
+    "id": "Q0050",
     "title": "Brands",
-    "code": "RH-GK049",
+    "code": "RH-GK050",
     "description": "25 Images. Name the Brand.",
     "file": "quizzes/Brands_Quiz.pdf"
   },
   {
-    "id": "Q0050",
+    "id": "Q0051",
     "title": "Simpson",
-    "code": "RH-GK050",
+    "code": "RH-GK051",
     "description": "25 Images. The pictures show famous people who have appeared in The Simpsons: some voiced a character, some appeared as themselves, and some were represented in Simpsons style.",
     "file": "quizzes/Simpsons_Quiz.pdf"
   },
   {
-    "id": "Q0051",
+    "id": "Q0052",
     "title": "Papa Was A Rollin' Stone",
-    "code": "RH-GK051",
+    "code": "RH-GK052",
     "description": "25 Images.Name the Pictured Celebrity and their Famous Parent(s).",
     "file": "quizzes/Papa_Was_A_Rollin_Stone_Quiz.pdf"
   },
   {
-    "id": "Q0052",
+    "id": "Q0053",
     "title": "2024 Deaths",
-    "code": "RH-GK052",
+    "code": "RH-GK053",
     "description": "25 Images.Name the Celebrity that passed in 2024.",
     "file": "quizzes/2024_Deaths_Quiz.pdf"
   },
   {
-    "id": "Q0053",
+    "id": "Q0054",
     "title": "2025 Deaths",
-    "code": "RH-GK053",
+    "code": "RH-GK054",
     "description": "25 Images.Name the Celebrity that passed in 2025.",
     "file": "quizzes/2025_Deaths_Quiz.pdf"
   },
   {
-    "id": "Q0054",
+    "id": "Q0055",
     "title": "2025 Deaths (zombied)",
-    "code": "RH-GK054",
+    "code": "RH-GK055",
     "description": "25 Images.Name the Celebrity that passed in 2025 (zombie filtered).",
     "file": "quizzes/2025_Deaths_(zombied)_Quiz.pdf"
   },
   {
-    "id": "Q0055",
+    "id": "Q0056",
     "title": "Dragons, Fairies, Witches and Wizards",
-    "code": "RH-GK055",
+    "code": "RH-GK056",
     "description": "28 Images.Name the film or franchise the image belongs to.",
     "file": "quizzes/Dragons,_Fairies,_Witches_and_Wizards_Quiz.pdf"
   },
   {
-    "id": "Q0056",
+    "id": "Q0057",
     "title": "It's a Puppet",
-    "code": "RH-GK056",
+    "code": "RH-GK057",
     "description": "25 Images.Name the Puppet.",
     "file": "quizzes/It's_a_Puppet_Quiz.pdf"
   },
   {
-    "id": "Q0057",
+    "id": "Q0058",
     "title": "Number Ones",
-    "code": "RH-GK057",
+    "code": "RH-GK058",
     "description": "30 Images.All of these are UK Number One singles containing the string “ONE” somewhere in the title; the rest of each title has been encoded using V for vowels and C for consonants. Artist initials and the year are provided—name the song.",
     "file": "quizzes/Number_Ones_Quiz.pdf"
   },
   {
-    "id": "Q0058",
+    "id": "Q0059",
     "title": "Mixed Up Jigsaws",
-    "code": "RH-GK058",
+    "code": "RH-GK059",
     "description": "25 Images. The Pictures show a complete jigsaw - Unfortunately a Character has been mixed up with an Actor that either voice or plays them.  Name both the Actor and the Character.",
     "file": "quizzes/Mixed_Up_Jigsaws_Quiz.pdf"
   },
   {
-    "id": "Q0059",
+    "id": "Q0060",
     "title": "Captains",
-    "code": "RH-GK059",
+    "code": "RH-GK060",
     "description": "25 Images of Actors, Charaters and Dingbats all Captain themed.",
     "file": "quizzes/Captains_Quiz.pdf"
   },
   {
-    "id": "Q0060",
+    "id": "Q0061",
     "title": "Artists - One Changed Letter",
-    "code": "RH-GK060",
+    "code": "RH-GK061",
     "description": "25 Images. Each image represents a music artist whose name has had one letter changed. The changed letter is shown above the picture, and the replacement letter below. The picture itself is a literal, graphical representation of the changed name. Your task is to identify the original artist.",
     "file": "quizzes/Artists_-_One_Changed_Letter_Quiz.pdf"
   },
   {
-    "id": "Q0061",
+    "id": "Q0062",
     "title": "Hiddden Anagram: UK Sitcoms",
-    "code": "RH-GK061",
+    "code": "RH-GK062",
     "description": "25 Images. Name the Sitcom. Bonus if you take the first letter of each answer and rearange them you get a British Comedian and Film they stared in. Answer: Sid James, Carry On Regardless.",
     "file": "quizzes/UK_Sitcoms_Quiz.pdf"
   },
   {
-    "id": "Q0062",
+    "id": "Q0063",
     "title": "Hiddden Anagram: Celebrities 01",
-    "code": "RH-GK062",
+    "code": "RH-GK063",
     "description": "25 Images. Name the Celebrity. Bonus if you take the first letter of each answer and rearange them you get Actor and Film they stared in. Answer: Leonardo DiCaprio, Inception.",
     "file": "quizzes/Celebrities_01_Quiz.pdf"
   },
   {
-    "id": "Q0063",
+    "id": "Q0064",
     "title": "Hiddden Anagram: Celebrities 02",
-    "code": "RH-GK063",
+    "code": "RH-GK064",
     "description": "25 Images. Name the Celebrity. Bonus if you take the first letter of each answer and rearange them you a Film. Answer: The Rocky Horror Picture Show.",
     "file": "quizzes/Celebrities_02_Quiz.pdf"
   },
   {
-    "id": "Q0064",
+    "id": "Q0065",
     "title": "Shared Role",
-    "code": "RH-GK064",
+    "code": "RH-GK065",
     "description": "12 Images. Name the Role and the two Actors who shared it.",
     "file": "quizzes/Shared_Role_Quiz.pdf"
   }
