@@ -329,7 +329,11 @@
   <div class="panel">
     <div class="section-title" id="rightPanelTitle">Get the Full Pack</div>
 
-    <div id="donateFlow">
+    <div id="noSelectionFlow">
+      <div class="viewer-empty" style="margin:1rem 0; padding:0;">Pick a quiz on the left to donate or download.</div>
+    </div>
+
+    <div id="donateFlow" style="display:none">
       <div class="donate-code">
         <div class="label">Reference code</div>
         <div class="code" id="donateCode">—</div>
@@ -358,6 +362,7 @@
       <button onclick="downloadCurrentPdf()">Download</button>
     </div>
   </div>
+
 
 </div>
 
@@ -416,6 +421,7 @@ function selectQuiz(q) {
 
   const isFree = !!q.free;
   document.getElementById('rightPanelTitle').textContent = isFree ? 'Free Sheet' : 'Get the Full Pack';
+  document.getElementById('noSelectionFlow').style.display = 'none';
   document.getElementById('donateFlow').style.display = isFree ? 'none' : 'block';
   document.getElementById('freeFlow').style.display = isFree ? 'block' : 'none';
 
