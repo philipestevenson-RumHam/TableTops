@@ -461,5 +461,13 @@
     "code": "RH-GK066",
     "description": "25 Images. All famous Doctors or known for playing Doctors.",
     "file": "quizzes/Doctors_Quiz.pdf"
+  },
+  {
+    "id": "Q0067",
+    "title": "Face Swapped Couples",
+    "code": "RH-GK067",
+    "description": "25 Images. Famous Couples where the face of one partner has been placed over the head of the other.",
+    "free": true,
+    "file": "quizzes/Face_Swapped_Couples_Quiz.pdf"
   }
 ]
