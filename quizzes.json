@@ -454,5 +454,12 @@
     "code": "RH-GK065",
     "description": "12 Images. Name the Role and the two Actors who shared it.",
     "file": "quizzes/Shared_Role_Quiz.pdf"
+  },
+  {
+    "id": "Q0066",
+    "title": "Doctors",
+    "code": "RH-GK066",
+    "description": "25 Images. All famous Doctors or known for playing Doctors.",
+    "file": "quizzes/Doctors_Quiz.pdf"
   }
 ]
