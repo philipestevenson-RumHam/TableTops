@@ -469,5 +469,33 @@
     "description": "25 Images. Famous Couples where the face of one partner has been placed over the head of the other.",
     "free": true,
     "file": "quizzes/Face_Swapped_Couples_Quiz.pdf"
+  },
+  {
+    "id": "Q0068",
+    "title": "Football 01",
+    "code": "RH-GK068",
+    "description": "25 Images. All images show UK football club badges with the names removed. Identify each club from the badge alone. Two of the images are not badges — they are photos of footballers who played at a World Cup. Name the club for each badge and name the player for each photo.",
+    "file": "quizzes/Football_01_Quiz.pdf"
+  },
+  {
+    "id": "Q0069",
+    "title": "Football 02",
+    "code": "RH-GK069",
+    "description": "25 Images. All images show UK football club badges with the names removed. Identify each club from the badge alone. Two of the images are not badges — they are photos of footballers who played at a World Cup. Name the club for each badge and name the player for each photo.",
+    "file": "quizzes/Football_02_Quiz.pdf"
+  },
+  {
+    "id": "Q0070",
+    "title": "Football 03",
+    "code": "RH-GK070",
+    "description": "25 Images. All images show UK football club badges with the names removed. Identify each club from the badge alone. Two of the images are not badges — they are photos of footballers who played at a World Cup. Name the club for each badge and name the player for each photo.",
+    "file": "quizzes/Football_03_Quiz.pdf"
+  },
+  {
+    "id": "Q0071",
+    "title": "Football 04",
+    "code": "RH-GK071",
+    "description": "25 Images. All images show UK football club badges with the names removed. Identify each club from the badge alone. Two of the images are not badges — they are photos of footballers who played at a World Cup. Name the club for each badge and name the player for each photo.",
+    "file": "quizzes/Football_04_Quiz.pdf"
   }
 ]
