@@ -497,5 +497,19 @@
     "code": "RH-GK071",
     "description": "25 Images. All images show UK football club badges with the names removed. Identify each club from the badge alone. Two of the images are not badges — they are photos of footballers who played at a World Cup. Name the club for each badge and name the player for each photo.",
     "file": "quizzes/Football_04_Quiz.pdf"
+  },
+  {
+    "id": "Q0072",
+    "title": "Mix Bag 01",
+    "code": "RH-GK072",
+    "description": "25 Images. Nice and Simple, Name the image.",
+    "file": "quizzes/Mix_Bag_01_Quiz.pdf"
+  },
+  {
+    "id": "Q0073",
+    "title": "Mix Bag 02",
+    "code": "RH-GK073",
+    "description": "25 Images. Nice and Simple, Name the image.",
+    "file": "quizzes/Mix_Bag_02_Quiz.pdf"
   }
 ]
