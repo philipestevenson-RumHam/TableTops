@@ -511,5 +511,12 @@
     "code": "RH-GK073",
     "description": "25 Images. Nice and Simple, Name the image.",
     "file": "quizzes/Mix_Bag_02_Quiz.pdf"
+  },
+  {
+    "id": "Q0074",
+    "title": "Synthetics",
+    "code": "RH-GK074",
+    "description": "30 Images featuring famous robots, androids and synthetic characters from films, TV and sci‑fi.",
+    "file": "quizzes/Synthetics_Quiz.pdf"
   }
 ]
