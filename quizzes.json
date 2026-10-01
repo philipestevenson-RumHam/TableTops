@@ -525,5 +525,12 @@
     "code": "RH-GK075",
     "description": "25/75 Images. The picture is split into three sections. In each section, identify (1) the cartoon character, (2) the celebrity, and (3) the brand/logo. Take the first letter of each correct answer—this gives you a three‑letter airport code for a capital city. From that airport code, write down the country that the capital city belongs to.",
     "file": "quizzes/Airports_Quiz.pdf"
+  },
+  {
+    "id": "Q0076",
+    "title": "Mostly Daves",
+    "code": "RH-GK076",
+    "description": "30 Images. Mostly of personalities named Dave or David.",
+    "file": "quizzes/Mostly_Daves_Quiz.pdf"
   }
 ]
