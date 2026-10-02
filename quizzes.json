@@ -539,5 +539,12 @@
     "code": "RH-GK077",
     "description": "30 Images. They’re all Toms, Tommys or Thomases — you just need to name the surname.",
     "file": "quizzes/Toms_Quiz.pdf"
+  },
+  {
+    "id": "Q0078",
+    "title": "(in)Famous Fiddlers",
+    "code": "RH-GK078",
+    "description": "25 Images of (in)Famous Fiddlers.",
+    "file": "quizzes/(in)Famous_Fiddlers_Quiz.pdf"
   }
 ]
