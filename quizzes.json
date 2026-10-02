@@ -532,5 +532,12 @@
     "code": "RH-GK076",
     "description": "30 Images. Mostly of personalities named Dave or David.",
     "file": "quizzes/Mostly_Daves_Quiz.pdf"
+  },
+  {
+    "id": "Q0077",
+    "title": "Toms",
+    "code": "RH-GK077",
+    "description": "30 Images. They’re all Toms, Tommys or Thomases — you just need to name the surname.",
+    "file": "quizzes/Toms_Quiz.pdf"
   }
 ]
