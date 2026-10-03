@@ -549,8 +549,15 @@
   },
   {
     "id": "Q0079",
-    "title": "(in)Famous Fiddlers",
+    "title": "Alans",
     "code": "RH-GK079",
+    "description": "28 Images. Every picture shows a famous Alan or Allen. Just name the person.",
+    "file": "quizzes/Alans_Quiz.pdf"
+  },
+  {
+    "id": "Q0080",
+    "title": "(in)Famous Fiddlers",
+    "code": "RH-GK080",
     "description": "25 Images of (in)Famous Fiddlers.",
     "file": "quizzes/(in)Famous_Fiddlers_Quiz.pdf"
   }
