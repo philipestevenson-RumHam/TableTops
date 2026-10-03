@@ -542,8 +542,15 @@
   },
   {
     "id": "Q0078",
-    "title": "(in)Famous Fiddlers",
+    "title": "Marks",
     "code": "RH-GK078",
+    "description": "28 Images. All pictures feature well‑known Marks, Marcs or Marcos.",
+    "file": "quizzes/Marks_Quiz.pdf"
+  },
+  {
+    "id": "Q0079",
+    "title": "(in)Famous Fiddlers",
+    "code": "RH-GK079",
     "description": "25 Images of (in)Famous Fiddlers.",
     "file": "quizzes/(in)Famous_Fiddlers_Quiz.pdf"
   }
