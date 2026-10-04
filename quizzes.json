@@ -556,8 +556,22 @@
   },
   {
     "id": "Q0080",
-    "title": "(in)Famous Fiddlers",
+    "title": "Bills",
     "code": "RH-GK080",
+    "description": "30 Images. This round is packed with Bills — identify each one by giving their full name.",
+    "file": "quizzes/Bills_Quiz.pdf"
+  },
+  {
+    "id": "Q0081",
+    "title": "Wills",
+    "code": "RH-GK081",
+    "description": "30 Images. This round is packed with Wills — identify each one by giving their full name.",
+    "file": "quizzes/Wills_Quiz.pdf"
+  },
+  {
+    "id": "Q0082",
+    "title": "(in)Famous Fiddlers",
+    "code": "RH-GK082",
     "description": "25 Images of (in)Famous Fiddlers.",
     "file": "quizzes/(in)Famous_Fiddlers_Quiz.pdf"
   }
