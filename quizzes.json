@@ -570,8 +570,22 @@
   },
   {
     "id": "Q0082",
-    "title": "(in)Famous Fiddlers",
+    "title": "Dans",
     "code": "RH-GK082",
+    "description": "30 Images. All these people share a variation of ‘Dan/Danny/Daniels’ in their name — identify each one.",
+    "file": "quizzes/Dans_Quiz.pdf"
+  },
+  {
+    "id": "Q0083",
+    "title": "Sams",
+    "code": "RH-GK083",
+    "description": "30 Images. All these people share a variation of ‘Sam’ in their name — identify each one.",
+    "file": "quizzes/Sams_Quiz.pdf"
+  },
+  {
+    "id": "Q0084",
+    "title": "(in)Famous Fiddlers",
+    "code": "RH-GK084",
     "description": "25 Images of (in)Famous Fiddlers.",
     "file": "quizzes/(in)Famous_Fiddlers_Quiz.pdf"
   }
