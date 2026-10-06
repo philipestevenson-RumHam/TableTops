@@ -584,8 +584,36 @@
   },
   {
     "id": "Q0084",
-    "title": "(in)Famous Fiddlers",
+    "title": "Jameses",
     "code": "RH-GK084",
+    "description": "30 Images. All these people share a ‘James’ in their name — identify each one.",
+    "file": "quizzes/Jameses_Quiz.pdf"
+  },
+  {
+    "id": "Q0085",
+    "title": "Petes",
+    "code": "RH-GK085",
+    "description": "30 Images. All these people share a ‘Pete’ in their name — identify each one.",
+    "file": "quizzes/Petes_Quiz.pdf"
+  },
+  {
+    "id": "Q0086",
+    "title": "Pauls",
+    "code": "RH-GK086",
+    "description": "30 Images. All these people share a ‘Paul’ in their name — identify each one.",
+    "file": "quizzes/Pauls_Quiz.pdf"
+  },
+  {
+    "id": "Q0087",
+    "title": "Steves",
+    "code": "RH-GK087",
+    "description": "30 Images. All these people share a ‘Ste’ in their name — identify each one.",
+    "file": "quizzes/Steves_Quiz.pdf"
+  },
+  {
+    "id": "Q0088",
+    "title": "(in)Famous Fiddlers",
+    "code": "RH-GK088",
     "description": "25 Images of (in)Famous Fiddlers.",
     "file": "quizzes/(in)Famous_Fiddlers_Quiz.pdf"
   }
