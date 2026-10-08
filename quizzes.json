@@ -612,8 +612,15 @@
   },
   {
     "id": "Q0088",
-    "title": "(in)Famous Fiddlers",
+    "title": "Jos",
     "code": "RH-GK088",
+    "description": "30 Images. All these people share a ‘Jo’ in their name — identify each one.",
+    "file": "quizzes/Jos_Quiz.pdf"
+  },
+  {
+    "id": "Q0089",
+    "title": "(in)Famous Fiddlers",
+    "code": "RH-GK089",
     "description": "25 Images of (in)Famous Fiddlers.",
     "file": "quizzes/(in)Famous_Fiddlers_Quiz.pdf"
   }
