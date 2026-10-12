@@ -623,5 +623,12 @@
     "code": "RH-GK089",
     "description": "25 Images of (in)Famous Fiddlers.",
     "file": "quizzes/(in)Famous_Fiddlers_Quiz.pdf"
+  },
+  {
+    "id": "Q0090",
+    "title": "Disney Pairs",
+    "code": "RH-GK090",
+    "description": "25 Images. Name the Character and Voice Artist.",
+    "file": "quizzes/Disney_Pairs_Quiz.pdf"
   }
 ]
