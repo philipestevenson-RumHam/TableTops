@@ -635,7 +635,14 @@
     "id": "Q0091",
     "title": "Andys",
     "code": "RH-GK091",
-    "description": "30 images. These famous faces all share a common link: a version of the name Andrew appears somewhere in their name.",
+    "description": "30 Images. These famous faces all share a common link: a version of the name Andrew appears somewhere in their name.",
     "file": "quizzes/Andys_Quiz.pdf"
+  },
+  {
+    "id": "Q0092",
+    "title": "Rebus TV Shows",
+    "code": "RH-GK092",
+    "description": "25 Images. Each picture is a rebus clue representing the title of a TV show. Can you work out the programme from the images?",
+    "file": "quizzes/Rebus_TV_Shows_Quiz.pdf"
   }
 ]
